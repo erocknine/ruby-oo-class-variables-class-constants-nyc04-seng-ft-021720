@@ -17,4 +17,5 @@ class Shoe
     brands = []
     brands << brand
     BRANDS << brands.uniq!
+  end
 end
