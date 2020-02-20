@@ -15,6 +15,6 @@ class Shoe
   end
 
   def brands=(brand)
-    BRANDS 
+    BRANDS << brand
   end
 end
